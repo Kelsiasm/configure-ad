@@ -26,7 +26,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 - Set Up Domain Controller
 - Create Resource Group, Virtual Network/Subnet, Then Create Domain Controller
-- Step 3
+- Set the Domain Controller's NIC Private IP address to be static.
 - Step 4
 
 <h2>Deployment and Configuration Steps</h2>
@@ -35,7 +35,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://github.com/user-attachments/assets/02373e16-e996-4b19-9d19-39f0de23ee7c" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-As you can see here, my Virtual Network, Active-Directory-vnet, has been set up and deployed successfully.
+As you can see here, my Virtual Network, Active-Directory-vnet, has been set up and deployed successfully. Following this set-up and deployment, I then went in to create my Virtual Machine.
 </p>
 <br />
 
