@@ -48,9 +48,9 @@ Here is where I have opened the IP Configuration settings for the Domain Control
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/566e7358-feab-428f-98a9-7e97e44f4b4f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here shows that I am logged into CLient-1, the second Virtual Machine I created within Azure, and I have pinged '10.0.0.4' which is the private IP address for my Domain Controller. The ping in Powershell shows that the IP Address was set up to Client-1 correctly and also shows the DNS servers as Domain Controller-1.
 </p>
 <br />
